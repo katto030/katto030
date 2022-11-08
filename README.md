@@ -23,7 +23,7 @@ When I'm not working, I enjoy hiking, hanging out with my animal friends, and ga
 *Product detail page for an ecommerce site*
 
 #### 🌱 Things I am currently working on: 
-- Finishing my foster tracking app Whiskrr (https://github.com/katto030/Whiskrr)
+- Polishing my foster tracking app [Whiskrr](https://github.com/katto030/Whiskrr)
 - Studying different algorithms and system designs
 - Mentoring bootcamp students on programming fundamentals, data structures/algorithms, and modern web development technology
 - Learning Python!
