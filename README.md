@@ -8,7 +8,7 @@
 #### :cat: About Me:
 Hi there! My name is Kat :D! Nice to meet you! 
 
-I'm Kat, a full stack software engineer based out of Seattle. I'm an ex-healthcare turned software dev! My interest for software engineering started when I used difficult logging programs as a lab technician, and I'm passionate about creating technologies in the medical field to help improve quality of care, as well as building intuitive and user friendly apps!
+I'm an ex-healthcare full stack software engineer based out of Seattle. My interest for software engineering started when I used difficult logging programs as a lab technician, and I'm passionate about creating technologies in the medical field to help improve quality of care, as well as building intuitive and user friendly apps!
 
 When I'm not working, I enjoy hiking, hanging out with my animal friends, and gardening! 
 
