@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katkgao/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:katg726@gmail.com)
 
-#### :cat: About Me:
+#### 😃 About Me:
 Hi there! My name is Kat :D! Nice to meet you! 
 
 I'm an ex-healthcare full stack software engineer based out of Seattle. My interest for software engineering started when I used difficult logging programs as a lab technician, and I'm passionate about creating technologies in the medical field to help improve quality of care, as well as building intuitive and user friendly apps!
